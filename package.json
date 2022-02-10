@@ -21,7 +21,7 @@
     "jquery-mask-plugin": "^1.14.16",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.31",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.2.2",
     "react-dom": "^16.13.1",
